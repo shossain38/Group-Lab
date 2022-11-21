@@ -1,4 +1,7 @@
 # Group-Lab
+
+Part-A
+
 ### Rock, Paper Scissors Game:
 ## The game consists of two players and three different hand symbols-
 ## The player can count to 3 or they can say rock/paper/scissor and present their hand symbol to the opponent. Each hand symbol has its strength and weaknesses.
@@ -13,3 +16,12 @@
 ## 3. If one player shows rock and other player shows scissor, then rock will win
 ## 4. If one player shows rock and another player shows paper then the paper will win.
 
+Part -B
+Roles Distribution:
+Project Manager: Sabrina Hossain
+release coordinator: Sahil Thayyil Blayson
+Developer: Hil Nimesh Patel 
+QA tester:  Jugal Viral Gajjar 
+     
+     
+     
