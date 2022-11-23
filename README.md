@@ -22,6 +22,3 @@
 ### release coordinator: Sahil Thayyil Blayson
 ### Developer: Hil Nimesh Patel 
 ### QA tester:  Jugal Viral Gajjar 
-     
-     
-     
